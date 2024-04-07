@@ -33,6 +33,7 @@ For this challenge, our objective was to download 6 provided csv files, import t
 ![Screenshot 2024-04-07 at 3 12 51 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/02281246-90b7-4e3c-b8d2-e8724f9dac2a)
 ![Screenshot 2024-04-07 at 3 13 06 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/8d11a54d-5227-4411-be6f-bff816f1a7af)
 ![Screenshot 2024-04-07 at 3 13 19 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/1effed80-c1c0-4aea-bc4e-bf45d9a82b2e)
+![Screenshot 2024-04-07 at 3 57 07 PM](https://github.com/erinengle2024/sql-challenge/assets/158017994/473e91a9-5837-46e7-a667-c94f313bb859)
 
 
 
